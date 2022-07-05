@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1200,
+      "id": 1,
+      "titulo": "Café",
+      "image": "https://th.bing.com/th/id/R.762c1af0fdddf5b17d641307f6d6f032?rik=1fBc%2fMzt%2bHRZsA&riu=http%3a%2f%2festiloconsalud.com%2fwp-content%2fuploads%2f2020%2f07%2fportada-cafe-m-1.jpg&ehk=z5jp9%2bnOJgqkHZ0cR6pD7VyDVkXFP1XZt4TAXbu7Jk0%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "precio": 900,
+      "id": 2,
+      "titulo": "Pizza",
+      "image": "https://th.bing.com/th/id/OIP.VIHoNlxPTkXfW2i6DgfIbwHaF7?pid=ImgDet&rs=1"
+    },
+    {
+      "precio": 140,
+      "id": 3,
+      "titulo": "Agua",
+      "image": "https://th.bing.com/th/id/OIP.TiJ5ZIibmpImnVN4BqIcYgHaFS?pid=ImgDet&rs=1"
+    },
+    {
+      "precio": 90,
+      "id": 4,
+      "titulo": "Pera",
+      "image": "https://th.bing.com/th/id/OIP.S2vjDkdahaCaaEJ-f5X3pAHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "precio": 120,
+      "id": 5,
+      "titulo": "Coca-Cola",
+      "image": "https://assets.entrepreneur.com/content/3x2/2000/1596472641-Coca-cola.jpg"
+    },
+    {
+      "precio": 450,
+      "id": 6,
+      "titulo": "Cerveza",
+      "image": "https://th.bing.com/th/id/R.da1fa6b16c75949dc41be2c5433d4d15?rik=GjGefNmqgPHjaw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-lapUQTQ-830%2fTY_LLDLOS0I%2fAAAAAAAAAPE%2f30THpKHBmh4%2fs1600%2fQuilmes%2bcristal2.JPG&ehk=Cb0%2fsjdhr0NjdvVFJk6kwoMPOoctqn2Lymn5GuzFVMU%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ]
